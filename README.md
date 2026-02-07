@@ -1,7 +1,5 @@
 # MFA-Forced-Alignment
 Forced alignment pipeline using Montreal Forced Aligner (MFA). Includes dataset preparation, baseline alignment, OOV handling with a custom dictionary, Praat-based analysis, and before/after TextGrid outputs for speech–text alignment.
-# MFA Forced Alignment using Montreal Forced Aligner
-
 
 This repository contains a complete forced alignment pipeline implemented using the **Montreal Forced Aligner (MFA)**.  
 The project demonstrates baseline alignment of speech and text, identification of out-of-vocabulary (OOV) words, dictionary extension, re-alignment, and qualitative analysis of alignment outputs using **Praat**.
